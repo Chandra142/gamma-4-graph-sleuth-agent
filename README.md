@@ -1,5 +1,9 @@
 # GraphSleuth: Topological Code-Graph Distillation and Neuro-Symbolic Navigation for Gemma 4
 
+<p align="center">
+  <img src="thumbnail.png" alt="GraphSleuth Gemma 4 Banner" width="100%" />
+</p>
+
 > **Research Paper & Resource Submission for [Google - The Gemma 4 Developer Agent Paper Track](https://www.kaggle.com/competitions/gemma-4-developer-agent-paper)**  
 > **Host:** Google DeepMind  
 > **Author:** Ram Chandra Gupta (B.Tech CSE, Lovely Professional University, Punjab, India | ramchandargupta142@gmail.com)  
